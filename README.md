@@ -1,4 +1,4 @@
-# googleimages
+## googleimages
 Populates the active Google Sheet with the names, direct URLs, file size & owner of all images in a defined Google Drive folder.
 
 # Guide
@@ -10,4 +10,8 @@ Populates the active Google Sheet with the names, direct URLs, file size & owner
 6. If prompted, allow any permissions prompts (only required on first run)
 
 Note that the script relies upon the contents of cell A1 to determine which folder to process.
+
 It is recommended to clear the sheet before repeating this process, and only having cell A1 populated with the Google Drive folder's ID.
+
+# Todo
+1. Add support for multiple folder processing
