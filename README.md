@@ -3,9 +3,9 @@ Populates the active Google Sheet with the names, direct URLs, file size & owner
 
 ## Guide
 1. Insert the folder ID of a given Google Drive folder (i.e. for https://drive.google.com/drive/folders/2q_moO0wARD6_NUnd7RoOrAY1pKSZXZn5, the ID would be 2q_moO0wARD6_NUnd7RoOrAY1pKSZXZn5) into cell A1 of a Google Sheet
-2. Copy the contents of script.js
+2. Copy the contents of [script.js](https://github.com/edpity/googleimages/blob/main/script.js)
 3. In a Google Sheet, go to the Script Editor (in the _Tools_ menu).
-4. Paste the contents of script.js
+4. Paste the contents of [script.js](https://github.com/edpity/googleimages/blob/main/script.js)
 5. Run the script
 6. If prompted, allow any permissions prompts (only required on first run)
 
